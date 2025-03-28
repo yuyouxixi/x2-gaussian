@@ -20,7 +20,7 @@ We achieves genuine continuous-time CT reconstruction without phase-binning. The
 </p>
 
 <p align="center">
-  <img src="./media/teaser.jpg" width="80%">
+  <img src="./media/teaser.jpg" width="100%">
 </p>
 
 <p align="center">
