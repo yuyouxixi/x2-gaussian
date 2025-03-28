@@ -1,8 +1,8 @@
 # X2-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction
 
 <p align="center">
-  <a href="https://x2-gaussian.github.io/" style="font-size: 30px; margin-right: 32px;"><strong>Project Page</strong></a>
-  <a href="https://arxiv.org/abs/2503.21779" style="font-size: 30px;"><strong>Paper</strong></a>
+  <a href="https://x2-gaussian.github.io/"><span style="display: inline-block; font-size: 42px; font-weight: bold; padding: 10px 30px;">Project Page</span></a>
+  <a href="https://arxiv.org/abs/2503.21779"><span style="display: inline-block; font-size: 42px; font-weight: bold; padding: 10px 30px;">Paper</span></a>
 </p>
 
 <p align="center">
