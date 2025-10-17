@@ -1,4 +1,4 @@
-# X2-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction
+# [ICCV 2025] X2-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction
 
 ### [Project Page](https://x2-gaussian.github.io/) | [Paper](https://arxiv.org/abs/2503.21779)
 
