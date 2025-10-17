@@ -1,0 +1,10 @@
+# ninja log v5
+1	8651	1733924501611370730	/data/whyu/r2_gaussian/r2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	73fa0e258801a74d
+0	12057	1733924505011332575	/data/whyu/r2_gaussian/r2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	19de2177c0f0586f
+1	31274	1733924524227112173	/data/whyu/r2_gaussian/r2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	f30514245ad6ecb
+0	11299	1738920974235239979	/data/whyu/4d_r2_gaussian/r2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	7c7ac82597665659
+0	17997	1738920980923099917	/data/whyu/4d_r2_gaussian/r2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	1c69b9e839fc9105
+1	41481	1738921004410607273	/data/whyu/4d_r2_gaussian/r2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	63ec88eaac1310ca
+9	9053	1760687450875610250	/data/whyu/x2gs_code/x2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	efd01fb59ad765fb
+8	14170	1760687455979469138	/data/whyu/x2gs_code/x2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	b371b7e71ce105a
+9	37527	1760687479342823717	/data/whyu/x2gs_code/x2_gaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	4dbec9a39c1f2b23
