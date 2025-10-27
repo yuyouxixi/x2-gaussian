@@ -26,7 +26,8 @@ X2-Gaussian demonstrates state-of-the-art reconstruction performance.
 
 ## News
 
-* 2025.10.17: Training code, data, and models have been released. Welcome to have a try!
+* 2025.10.27: Datasets have been released [here](https://huggingface.co/datasets/vortex778/X2GS). Welcome to have a try!
+* 2025.10.17: Training code has been released.
 * 2025.06.26: Our work has been accepted to ICCV 2025.
 * 2025.03.27: Our paper is available on [arxiv](https://arxiv.org/abs/2503.21779).
 
@@ -64,7 +65,7 @@ pip install TIGRE-2.3/Python --no-build-isolation
 
 ### Dtaset
 
-You can download datasets used in our paper [here](https://drive.google.com/drive/folders/1lPWQg9lW9h4uc51KoDTXjnukQ4boxHqT?usp=sharing). We use [NAF](https://github.com/Ruyi-Zha/naf_cbct) format data (`*.pickle`) used in [SAX-NeRF](https://github.com/caiyuanhao1998/SAX-NeRF).
+You can download datasets used in our paper [here](https://huggingface.co/datasets/vortex778/X2GS). We use [NAF](https://github.com/Ruyi-Zha/naf_cbct) format data (`*.pickle`) used in [SAX-NeRF](https://github.com/caiyuanhao1998/SAX-NeRF).
 
 ### Initialization
 
